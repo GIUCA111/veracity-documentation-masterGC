@@ -1,0 +1,13 @@
+{
+	"$schema": "../../schemas/toc.json",
+	"items": [
+		{
+			"text": "Overview",
+			"href": "overview.md"
+		},
+		{
+			"text": "Analytics API Reference",
+			"href": "analytics-openapi.yaml"
+		}
+	]
+}

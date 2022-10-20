@@ -1,0 +1,46 @@
+{
+	"$schema": "../../schemas/toc.json",
+	"items": [
+		{
+			"text": "Overview",
+			"href": "dataworkbench.md"
+		},
+		{
+			"text": "What is new?",
+			"items": [
+				{
+					"text": "September 2022 release",
+					"href": "news/releasesept22.md"
+				},
+				{
+					"text": "August 2022 release",
+					"href": "news/releaseaug22.md"
+				}
+			]
+		},
+		{
+			"text": "User management",
+			"href": "usermanagement.md"
+		},
+		{
+			"text": "API integrations",
+			"href": "apiintegrations.md"
+		},
+		{
+			"text": "Activity logs",
+			"href": "activitylog.md"
+		},
+		{
+			"text": "Authentication",
+			"href": "authentication.md"
+		},
+		{
+			"text": "API endpoints",
+			"href": "apiendpoints.md"
+		},
+		{
+			"text": "Tutorial: query data",
+			"href": "tutorialq.md"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"$schema": "../../schemas/toc.json",
+	"items": [
+		{
+			"text": "Veracity Marketplace",
+			"href": "marketplace.md"
+		},
+		{
+			"text": "Product presentation",
+			"href": "productpresentation.md"
+		},
+		{
+			"text": "Choosing your pricing model",
+			"href": "choosingyourpricingmodel.md"
+		},
+		{
+			"text": "Selling your product",
+			"items": [
+				{
+					"text": "Overview",
+					"href": "sellingyourproduct/sellingyourproductoverview.md"
+				},
+				{
+					"text": "Paid services",
+					"href": "sellingyourproduct/paidservices.md"
+				},
+				{
+					"text": "Lead generating services",
+					"href": "sellingyourproduct/leadsgeneratingservices.md"
+				},
+				{
+					"text": "Free services",
+					"href": "sellingyourproduct/freeservices.md"
+				},
+				{
+					"text": "Combinations",
+					"href": "sellingyourproduct/hybridsolutions.md"
+				}
+			]
+		},
+		{
+			"text": "Marketplace Insight",
+			"href": "marketplaceinsight.md"
+		}
+	]
+}
